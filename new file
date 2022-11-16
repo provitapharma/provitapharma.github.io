@@ -1,9 +1,13 @@
+<!DOCTYPE html>
 <html>
-
-<body>
-  <h1>YOUR NAME</h1>
-  <p>Welcome to my website!</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
+  <head>
+    <meta charset="utf-8">
+    <title>Provita Competition</title>
+  </head>
+  
+  <body>
+    <h1>Provita Competition</h1>
+    <p>This website is currently in progress!</p>
+  </body>
 
 </html>
